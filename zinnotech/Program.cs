@@ -7,6 +7,7 @@ namespace zinnotech
         static void Main(string[] args)
         {
             Console.WriteLine("Hello Zinnotech!");
+            Console.WriteLine("Hello Unity!");
         }
     }
 }
